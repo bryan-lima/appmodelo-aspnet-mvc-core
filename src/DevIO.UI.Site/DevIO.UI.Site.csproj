@@ -5,10 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Produtos\Controllers\" />
     <Folder Include="Areas\Produtos\Data\" />
     <Folder Include="Areas\Produtos\Models\" />
-    <Folder Include="Areas\Produtos\Views\" />
     <Folder Include="Models\" />
   </ItemGroup>
 
