@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace DevIO.UI.Site.Areas.Produtos.Controllers
+namespace DevIO.UI.Site.Modulos.Produtos.Controllers
 {
     [Area("Produtos")]
     public class CadastroController : Controller
